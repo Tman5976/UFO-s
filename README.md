@@ -7,6 +7,11 @@ This assignment aimed to build a web page that contained data on UFO sightings t
 ## Results
 
 Navigating the site can be done by inputting one or multiple search queries into the input fields.
+![UFO no filter](https://user-images.githubusercontent.com/85756203/133914348-b6f88af8-d6b2-470a-85d8-67d771e8187d.png)
+
+![UFO one filter](https://user-images.githubusercontent.com/85756203/133914350-1c36057e-fa30-46b5-9d28-e7cffec11349.png)
+
+![UFO two filter](https://user-images.githubusercontent.com/85756203/133914353-4f4c82c0-c8dd-44b3-8eb5-6de114165151.png)
 
 ## Summary
 

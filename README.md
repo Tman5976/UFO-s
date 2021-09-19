@@ -13,6 +13,8 @@ Navigating the site can be done by inputting one or multiple search queries into
 
 ![UFO two filter](https://user-images.githubusercontent.com/85756203/133914353-4f4c82c0-c8dd-44b3-8eb5-6de114165151.png)
 
+To successfully navigate the webpage, the user needs to enter the correct search into the filter. Spelling errors or searching for something that is not in the data will not return any data.
+
 ## Summary
 
 When the page is first visited, I believe the table can look overwhelming at first. All the data is presented at once, which could confuse someone visiting the site for the first time.
